@@ -12,4 +12,6 @@ Heston in Matlab: https://github.com/ymh1989/Heston/tree/master
 
 （book）《期权定价理论》：https://www.jianguoyun.com/p/DR_yt8YQpsbzDBjg8u4FIAA
 
-Code for neural dynamical system identification with structure preservation： https://github.com/klee44/NDSI/tree/main
+Code for neural dynamical system identification with structure preservation：https://github.com/klee44/NDSI/tree/main
+
+PINN 改进综述：https://arxiv.org/abs/2308.08468
