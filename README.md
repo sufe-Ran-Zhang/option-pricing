@@ -17,3 +17,5 @@ Code for neural dynamical system identification with structure preservation：ht
 PINN 改进综述：https://arxiv.org/abs/2308.08468
 
 重采样改进方法：https://www.sciencedirect.com/science/article/pii/S0045782522006260
+
+kernel method Network: https://doi.org/10.1016/j.neunet.2024.106098
