@@ -14,7 +14,8 @@ Heston in Matlab: https://github.com/ymh1989/Heston/tree/master
 
 Code for neural dynamical system identification with structure preservation：https://github.com/klee44/NDSI/tree/main
 
-PINN 改进综述：https://arxiv.org/abs/2308.08468
+PINN 改进综述
+AN EXPERT’S GUIDE TO TRAINING PHYSICS-INFORMED NEURAL NETWORKS. https://arxiv.org/abs/2308.08468
 
 重采样改进方法：https://www.sciencedirect.com/science/article/pii/S0045782522006260
 
