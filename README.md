@@ -31,3 +31,6 @@ https://doi.org/10.1016/j.neunet.2024.106098
 loss reweighted: Enhancing PINNs for solving PDEs via adaptive collocation
 point movement and adaptive loss weighting.
 https://github.com/hsbhc/AMAW-PINN.
+
+重要采样：Failure-informed adaptive sampling for PINNs
+https://arxiv.org/abs/2210.00279
