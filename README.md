@@ -1,4 +1,6 @@
-PINNS 原始文章和代码：https://github.com/maziarraissi/PINNs?tab=readme-ov-file
+PINNS 原始文章和代码：
+Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations.
+https://github.com/maziarraissi/PINNs?tab=readme-ov-file
 
 PINN by Pytorch: https://github.com/jayroxis/PINNs/tree/master
 
