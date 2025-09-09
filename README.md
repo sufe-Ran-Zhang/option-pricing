@@ -1,8 +1,7 @@
 PINNS 原始文章和代码：
 Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations.
 https://github.com/maziarraissi/PINNs?tab=readme-ov-file
-
-PINN by Pytorch: https://github.com/jayroxis/PINNs/tree/master
+(PINN by Pytorch: https://github.com/jayroxis/PINNs/tree/master)
 
 Heston in Python: https://github.com/cantaro86/Financial-Models-Numerical-Methods
 
@@ -23,8 +22,10 @@ AN EXPERT’S GUIDE TO TRAINING PHYSICS-INFORMED NEURAL NETWORKS. https://arxiv.
 A comprehensive study of non-adaptive and residual-based adaptive sampling for physics-informed neural networks
 https://www.sciencedirect.com/science/article/pii/S0045782522006260
 
-kernel method Network: https://doi.org/10.1016/j.neunet.2024.106098
+kernel method Network: 
+Physics-informed kernel function neural networks for solving partial differential equations.
+https://doi.org/10.1016/j.neunet.2024.106098
 
 loss reweighted: Enhancing PINNs for solving PDEs via adaptive collocation
-point movement and adaptive loss weighting
+point movement and adaptive loss weighting.
 https://github.com/hsbhc/AMAW-PINN.
