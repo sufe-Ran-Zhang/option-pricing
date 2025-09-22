@@ -31,6 +31,7 @@ https://doi.org/10.1016/j.neunet.2024.106098
 loss reweighted: Enhancing PINNs for solving PDEs via adaptive collocation
 
 thesis:
+
 (1) Physics Informed Neural Networks in Computational Finance: High Dimensional Forward & Inverse Option Pricing
 https://www.jianguoyun.com/p/DdeXTEMQuJ2NDRjf7ogGIAA
 
