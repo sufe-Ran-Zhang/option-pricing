@@ -29,6 +29,11 @@ Physics-informed kernel function neural networks for solving partial differentia
 https://doi.org/10.1016/j.neunet.2024.106098
 
 loss reweighted: Enhancing PINNs for solving PDEs via adaptive collocation
+
+积分计算：
+A-PINN: Auxiliary physics informed neural networks for forward and inverse problems of nonlinear integro-differential equations
+https://www.sciencedirect.com/science/article/pii/S0021999122003229
+
 point movement and adaptive loss weighting.
 https://github.com/hsbhc/AMAW-PINN.
 
