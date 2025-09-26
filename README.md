@@ -42,7 +42,7 @@ https://www.jianguoyun.com/p/DSVqPdkQuJ2NDRjl7ogGIAA
 A-PINN: Auxiliary physics informed neural networks for forward and inverse problems of nonlinear integro-differential equations
 https://www.sciencedirect.com/science/article/pii/S0021999122003229
 
-point movement and adaptive loss weighting"
+point movement and adaptive loss weighting: 
 Enhancing PINNs for Solving PDEs via Adaptive Collocation Point Movement and Adaptive Loss Weighting
 https://github.com/hsbhc/AMAW-PINN.
 
