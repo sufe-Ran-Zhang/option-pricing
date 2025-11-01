@@ -48,3 +48,12 @@ https://github.com/hsbhc/AMAW-PINN.
 
 重要采样：Failure-informed adaptive sampling for PINNs
 https://arxiv.org/abs/2210.00279
+
+A neural network-based framework for financial model calibration:
+https://mathematicsinindustry.springeropen.com/articles/10.1186/s13362-019-0066-7
+
+Deep learning volatility:
+https://www.tandfonline.com/doi/full/10.1080/14697688.2020.1817974
+
+Sparse learning of stochastic dynamical equations:
+https://pubs.aip.org/aip/jcp/article/148/24/241723/962594/Sparse-learning-of-stochastic-dynamical-equations
