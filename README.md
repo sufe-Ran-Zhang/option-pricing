@@ -36,7 +36,7 @@ thesis:
 [https://www.jianguoyun.com/p/DdeXTEMQuJ2NDRjf7ogGIAA](https://www.jianguoyun.com/p/DZ8pWfcQiuqcDRj1sJEGIAA)
 
 (2) Physics-Informed Neural Networks and Option Pricing
-https://www.jianguoyun.com/p/DSVqPdkQuJ2NDRjl7ogGIAA
+https://www.jianguoyun.com/p/DVcRaTsQiuqcDRj3sJEGIAA
 
 积分计算：
 A-PINN: Auxiliary physics informed neural networks for forward and inverse problems of nonlinear integro-differential equations
