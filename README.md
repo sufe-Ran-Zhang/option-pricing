@@ -9,9 +9,9 @@ Heston in Matlab: https://github.com/ymh1989/Heston/tree/master
 
 （book）《金融衍生产品定价的数学模型与案例分析》：https://www.jianguoyun.com/p/DePq3aAQiuqcDRj-sJEGIAA
 
-（book）《金融中的计算方法》：https://www.jianguoyun.com/p/DZ2oppYQpsbzDBje8u4FIAA
+（book）《金融中的计算方法》：https://www.jianguoyun.com/p/DarWcMEQiuqcDRiAsZEGIAA
 
-（book）《期权定价理论》：https://www.jianguoyun.com/p/DR_yt8YQpsbzDBjg8u4FIAA
+（book）《期权定价理论》：https://www.jianguoyun.com/p/DRO21RIQiuqcDRiBsZEGIAA
 
 
 Structure-preserving sparse identification of nonlinear dynamics for data-driven modeling.
