@@ -24,11 +24,15 @@ AN EXPERT’S GUIDE TO TRAINING PHYSICS-INFORMED NEURAL NETWORKS. https://arxiv.
 A comprehensive study of non-adaptive and residual-based adaptive sampling for physics-informed neural networks
 https://www.sciencedirect.com/science/article/pii/S0045782522006260
 
-kernel method Network: 
-Physics-informed kernel function neural networks for solving partial differential equations.
-https://doi.org/10.1016/j.neunet.2024.106098
 
-loss reweighted: Enhancing PINNs for solving PDEs via adaptive collocation
+重要采样：Failure-informed adaptive sampling for PINNs
+https://arxiv.org/abs/2210.00279
+
+
+point movement and adaptive loss weighting: 
+Enhancing PINNs for Solving PDEs via Adaptive Collocation Point Movement and Adaptive Loss Weighting
+https://link.springer.com/article/10.1007/s11071-023-08654-w
+https://github.com/hsbhc/AMAW-PINN.
 
 thesis:
 
@@ -42,12 +46,11 @@ https://www.jianguoyun.com/p/DVcRaTsQiuqcDRj3sJEGIAA
 A-PINN: Auxiliary physics informed neural networks for forward and inverse problems of nonlinear integro-differential equations
 https://www.sciencedirect.com/science/article/pii/S0021999122003229
 
-point movement and adaptive loss weighting: 
-Enhancing PINNs for Solving PDEs via Adaptive Collocation Point Movement and Adaptive Loss Weighting
-https://github.com/hsbhc/AMAW-PINN.
+kernel method Network: 
+Physics-informed kernel function neural networks for solving partial differential equations.
+https://doi.org/10.1016/j.neunet.2024.106098
 
-重要采样：Failure-informed adaptive sampling for PINNs
-https://arxiv.org/abs/2210.00279
+
 
 A neural network-based framework for financial model calibration:
 https://mathematicsinindustry.springeropen.com/articles/10.1186/s13362-019-0066-7
