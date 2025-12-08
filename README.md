@@ -21,6 +21,7 @@ PINN 改进综述:
 AN EXPERT’S GUIDE TO TRAINING PHYSICS-INFORMED NEURAL NETWORKS. https://arxiv.org/abs/2308.08468
 
 ###############################################################################
+
 重采样改进方法：
 A comprehensive study of non-adaptive and residual-based adaptive sampling for physics-informed neural networks
 https://www.sciencedirect.com/science/article/pii/S0045782522006260
