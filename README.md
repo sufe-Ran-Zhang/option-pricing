@@ -29,7 +29,8 @@ https://arxiv.org/abs/2210.00279
 
 重要抽样 book：
 
-control variate: 
+control variate: Learning Physics-Informed Neural Networks without Stacked Back-propagation
+https://arxiv.org/pdf/2202.09340
 
 point movement and adaptive loss weighting: 
 Enhancing PINNs for Solving PDEs via Adaptive Collocation Point Movement and Adaptive Loss Weighting
