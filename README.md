@@ -20,6 +20,7 @@ https://github.com/klee44/NDSI/tree/main
 PINN 改进综述:
 AN EXPERT’S GUIDE TO TRAINING PHYSICS-INFORMED NEURAL NETWORKS. https://arxiv.org/abs/2308.08468
 
+###############################################################################
 重采样改进方法：
 A comprehensive study of non-adaptive and residual-based adaptive sampling for physics-informed neural networks
 https://www.sciencedirect.com/science/article/pii/S0045782522006260
@@ -27,10 +28,12 @@ https://www.sciencedirect.com/science/article/pii/S0045782522006260
 重要采样：Failure-informed adaptive sampling for PINNs
 https://arxiv.org/abs/2210.00279
 
-重要抽样 book：
+重要抽样 book：https://www.jianguoyun.com/p/DUBMTEwQiuqcDRjZo5UGIAA
 
 control variate: Learning Physics-Informed Neural Networks without Stacked Back-propagation
 https://arxiv.org/pdf/2202.09340
+
+##############################################################################
 
 point movement and adaptive loss weighting: 
 Enhancing PINNs for Solving PDEs via Adaptive Collocation Point Movement and Adaptive Loss Weighting
