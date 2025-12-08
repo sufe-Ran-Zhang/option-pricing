@@ -24,10 +24,12 @@ AN EXPERT’S GUIDE TO TRAINING PHYSICS-INFORMED NEURAL NETWORKS. https://arxiv.
 A comprehensive study of non-adaptive and residual-based adaptive sampling for physics-informed neural networks
 https://www.sciencedirect.com/science/article/pii/S0045782522006260
 
-
 重要采样：Failure-informed adaptive sampling for PINNs
 https://arxiv.org/abs/2210.00279
 
+重要抽样 book：
+
+control variate: 
 
 point movement and adaptive loss weighting: 
 Enhancing PINNs for Solving PDEs via Adaptive Collocation Point Movement and Adaptive Loss Weighting
