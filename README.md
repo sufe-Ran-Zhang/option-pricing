@@ -41,6 +41,7 @@ Enhancing PINNs for Solving PDEs via Adaptive Collocation Point Movement and Ada
 https://link.springer.com/article/10.1007/s11071-023-08654-w
 https://github.com/hsbhc/AMAW-PINN.
 
+#############################################################################
 thesis:
 
 (1) Physics Informed Neural Networks in Computational Finance: High Dimensional Forward & Inverse Option Pricing
@@ -48,6 +49,9 @@ thesis:
 
 (2) Physics-Informed Neural Networks and Option Pricing
 https://www.jianguoyun.com/p/DVcRaTsQiuqcDRj3sJEGIAA
+
+
+#############################################################################
 
 积分计算：
 A-PINN: Auxiliary physics informed neural networks for forward and inverse problems of nonlinear integro-differential equations
@@ -57,7 +61,8 @@ kernel method Network:
 Physics-informed kernel function neural networks for solving partial differential equations.
 https://doi.org/10.1016/j.neunet.2024.106098
 
-
+###############################################################################
+inverse problems:
 
 A neural network-based framework for financial model calibration:
 https://mathematicsinindustry.springeropen.com/articles/10.1186/s13362-019-0066-7
