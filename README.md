@@ -62,6 +62,7 @@ Physics-informed kernel function neural networks for solving partial differentia
 https://doi.org/10.1016/j.neunet.2024.106098
 
 ###############################################################################
+
 inverse problems:
 
 A neural network-based framework for financial model calibration:
